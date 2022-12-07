@@ -1,0 +1,36 @@
+:root {
+  ---background: rgb(219, 216, 227);
+  ---purple: rgb(92, 84, 112);
+  ---mid: rgb(53, 47, 68);
+  ---darkest: rgb(42, 36, 56);
+}
+
+body {
+  background-color: rgb(150, 147, 147, 0.4);
+  font-family: "Prompt", sans-serif;
+}
+.container {
+  max-width: 800px;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+.hero {
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+.hero button {
+  border-radius: 5px;
+}
+.hero a {
+  text-decoration: none;
+}
+
+.about {
+  color: rgb(51, 54, 54);
+}
+.videos {
+}
+.footer {
+  text-align: center;
+}
